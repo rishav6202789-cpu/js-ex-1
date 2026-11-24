@@ -12,3 +12,11 @@ let isLoginId = false
 //bigInt => to use number largre than 2 to the power od 53
 //string => " "
 //boolean => true or false 
+//null =>standalonevalue
+//undefined => not assigned value 
+//symbol => unique
+
+//object
+
+console.log(typeof undefined) // type =>undefined
+console.log(typeof null) // type =>object
