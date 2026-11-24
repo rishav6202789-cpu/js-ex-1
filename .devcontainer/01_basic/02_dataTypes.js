@@ -18,5 +18,5 @@ let isLoginId = false
 
 //object
 
-console.log(typeof undefined) // type =>undefined
-console.log(typeof null) // type =>object
+console.log(typeof undefined) // undefined
+console.log(typeof null) // object
